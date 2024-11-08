@@ -4,3 +4,4 @@ This project presents the implementation of a 10-bit asynchronous counter on an 
 
 https://github.com/user-attachments/assets/36bd1671-ec0b-4a70-a2c0-451666ccd9ca
 
+![circuit](https://github.com/user-attachments/assets/7106d2c8-9700-4e81-9097-970a9e8cb1d7)
